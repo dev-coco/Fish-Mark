@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Fish Mark",
-    "description": "通过链接获取标记。",
+    "description": "获取标记。",
     "author": "dev-coco",
     "version": "1.1.0",
     "browser_action": {
